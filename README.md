@@ -1,9 +1,11 @@
+# JavaSkills2
 #BinaryAddition
 
 ##Purpose
 
+
 ##Requirements
 
-##How it works
+##How it Works
 
-##Sample Output
+##Sample Outputs
