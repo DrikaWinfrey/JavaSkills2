@@ -1,9 +1,9 @@
-#BinaryAddition
+# BinaryAddition
 
-##Purpose
+## Purpose
 
-##Requirements
+## Requirements
 
-##How it works
+## How it works
 
-##Sample Output
+## Sample Output
